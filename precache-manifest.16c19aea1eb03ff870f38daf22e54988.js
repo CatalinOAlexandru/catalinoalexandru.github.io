@@ -1,43 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f092559463bbefd4b0357a2c10aa4a63",
+    "revision": "d5d1d7fc15b83e23a7fcf0920953be1b",
     "url": "/index.html"
   },
   {
-    "revision": "339da5cf952af84d131e",
+    "revision": "4fb60638bab0beb4980f",
     "url": "/static/css/3.bc85b1b3.chunk.css"
   },
   {
-    "revision": "ee19bbd80cebd9c8cf18",
+    "revision": "e5eb09afe88b48aaced6",
     "url": "/static/css/4.5c57288c.chunk.css"
   },
   {
-    "revision": "c6b1ee0c1619128a0215",
+    "revision": "4108e2ad4dbf71990bb5",
     "url": "/static/css/main.d8761c1d.chunk.css"
   },
   {
-    "revision": "619ebb01fecd2d5b5296",
-    "url": "/static/js/2.619aa409.chunk.js"
+    "revision": "d6bd98edde2e855dafd3",
+    "url": "/static/js/2.b56f45cf.chunk.js"
   },
   {
     "revision": "6e1d2efc12a1ac972ff1f942df7eb0bd",
-    "url": "/static/js/2.619aa409.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.b56f45cf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "339da5cf952af84d131e",
-    "url": "/static/js/3.d558383c.chunk.js"
+    "revision": "4fb60638bab0beb4980f",
+    "url": "/static/js/3.1f373809.chunk.js"
   },
   {
-    "revision": "ee19bbd80cebd9c8cf18",
-    "url": "/static/js/4.abb2c670.chunk.js"
+    "revision": "e5eb09afe88b48aaced6",
+    "url": "/static/js/4.e949dd2d.chunk.js"
   },
   {
-    "revision": "c6b1ee0c1619128a0215",
-    "url": "/static/js/main.d8c5d50b.chunk.js"
+    "revision": "4108e2ad4dbf71990bb5",
+    "url": "/static/js/main.5226eb46.chunk.js"
   },
   {
-    "revision": "bc2af81a7ce4392367a7",
-    "url": "/static/js/runtime-main.51ad6c13.js"
+    "revision": "9877e7e2e7b2ba4f4e54",
+    "url": "/static/js/runtime-main.e3de149b.js"
   },
   {
     "revision": "a3752c4bf72688b3db38d0911cf75f61",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c8b9c0cb7c885110e65db2aa438425ac",
     "url": "/static/media/adamarobotics.c8b9c0cb.png"
+  },
+  {
+    "revision": "fbf5cd650ca4aa113378a03cbc5a4d60",
+    "url": "/static/media/augur.fbf5cd65.png"
   },
   {
     "revision": "47a7a717679b640ceb1b05d38c480a61",
@@ -74,10 +78,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "c49bf4d6ea009e279c9faa6d41d4c6b1",
     "url": "/static/media/nvidia.c49bf4d6.png"
-  },
-  {
-    "revision": "01035136a06f21449bd16ddae85a5fdb",
-    "url": "/static/media/physicsx.01035136.jpg"
   },
   {
     "revision": "ee62cb58630f29a6e6201b49d4c03728",
